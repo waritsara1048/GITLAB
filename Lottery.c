@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+// Some Changes
 void main()
 {
   int WinLotteryNo[10] = {1522, 1711, 5515, 7233, 5614, 8876, 1215, 4232, 9155, 9995}; 
